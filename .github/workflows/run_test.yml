@@ -1,4 +1,4 @@
-name: simple_calculator unit test
+name: simple_calculator, max_subarray_sum, and two_sum unit test
   
 on: [push]  
   
